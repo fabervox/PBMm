@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         VK Pixel Battle Minimap
+// @name         VK Pixel Battle Minimap | KxZ
 // @namespace    http://tampermonkey.net/
 // @version      0.1.0
 // @description  VK Pixel Battle Minimap.\n Adapted MLP Pixel Minimap 1.3.11
