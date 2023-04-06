@@ -15,12 +15,12 @@
 // @connect		 glitch.me
 // @match        *://vk.com/*
 // @include      https://prod-app*
-// @updateURL    https://raw.githubusercontent.com/caprallex/PBMm/master/PBMm.user.js
-// @downloadURL  https://raw.githubusercontent.com/caprallex/PBMm/master/PBMm.user.js
+// @updateURL    https://raw.githubusercontent.com/fabervox/PBMm/master/PBMm.user.js
+// @downloadURL  https://raw.githubusercontent.com/fabervox/PBMm/master/PBMm.user.js
 // ==/UserScript==
 
 [
-	['https://prod-app*', 'https://raw.githubusercontent.com/caprallex/PBMm/master/code.js'],
+	['https://prod-app*', 'https://raw.githubusercontent.com/fabervox/PBMm/master/code.js'],
 ].forEach(([reg, src]) => {
 	if (new RegExp(reg).test(location.href)) {
 		console.log(`trigger "${reg}"\nload code from "${src}"`);
