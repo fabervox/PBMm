@@ -1,7 +1,7 @@
 {
     "Legion": {
-        "data": "https://raw.githubusercontent.com/caprallex/PBMm/master/templates.json",
-        "images": "https://raw.githubusercontent.com/caprallex/PBMm/master/images/",
+        "data": "https://raw.githubusercontent.com/fabervox/PBMm/master/templates.json",
+        "images": "https://raw.githubusercontent.com/fabervox/PBMm/master/images/",
         "color": "red"
     }
 }
